@@ -1,1 +1,251 @@
 Rank,Movie Name,Release Date,Director,Actor 1,Actor 2,No. of Votes,Rating
+1,The Shawshank Redemption,1994,Frank Darabont, Tim Robbins, Morgan Freeman,1991703,9.216884339024046
+2,The Godfather,1972,Francis Ford Coppola, Marlon Brando, Al Pacino,1364162,9.15801004145974
+3,The Godfather: Part II,1974,Francis Ford Coppola, Al Pacino, Robert De Niro,944276,8.992860114993118
+4,The Dark Knight,2008,Christopher Nolan, Christian Bale, Heath Ledger,1961723,8.95793305192272
+5,12 Angry Men,1957,Sidney Lumet, Henry Fonda, Lee J. Cobb,556842,8.911026333284314
+6,Schindler's List,1993,Steven Spielberg, Liam Neeson, Ralph Fiennes,1027536,8.898368266646482
+7,The Lord of the Rings: The Return of the King,2003,Peter Jackson, Elijah Wood, Viggo Mortensen,1419043,8.869012575551652
+8,Pulp Fiction,1994,Quentin Tarantino, John Travolta, Uma Thurman,1555669,8.862797700506283
+9,"Il buono, il brutto, il cattivo",1966,Sergio Leone, Clint Eastwood, Eli Wallach,590550,8.82952324427277
+10,Fight Club,1999,David Fincher, Brad Pitt, Edward Norton,1594814,8.780973981398642
+11,The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson, Elijah Wood, Ian McKellen,1436100,8.768985601178947
+12,Forrest Gump,1994,Robert Zemeckis, Tom Hanks, Robin Wright,1515333,8.734595129622216
+13,Star Wars: Episode V - The Empire Strikes Back,1980,Irvin Kershner, Mark Hamill, Harrison Ford,1001476,8.72606240634708
+14,Inception,2010,Christopher Nolan, Leonardo DiCaprio, Joseph Gordon-Levitt,1743122,8.721553578004777
+15,The Lord of the Rings: The Two Towers,2002,Peter Jackson, Elijah Wood, Ian McKellen,1283027,8.688806919762097
+16,One Flew Over the Cuckoo's Nest,1975,Milos Forman, Jack Nicholson, Louise Fletcher,791952,8.668555825071058
+17,Goodfellas,1990,Martin Scorsese, Robert De Niro, Ray Liotta,858681,8.660514053324887
+18,The Matrix,1999,Lana Wachowski, Keanu Reeves, Laurence Fishburne,1429734,8.647596089570412
+19,Shichinin no samurai,1954,Akira Kurosawa, Toshirô Mifune, Takashi Shimura,269949,8.63098014066837
+20,Cidade de Deus,2002,Fernando Meirelles, Alexandre Rodrigues, Leandro Firmino,616549,8.604923704014007
+21,Star Wars,1977,George Lucas, Mark Hamill, Harrison Ford,1072002,8.603215200126554
+22,Se7en,1995,David Fincher, Morgan Freeman, Brad Pitt,1216765,8.602830658227004
+23,The Silence of the Lambs,1991,Jonathan Demme, Jodie Foster, Anthony Hopkins,1067194,8.589034237680734
+24,It's a Wonderful Life,1946,Frank Capra, James Stewart, Donna Reed,334753,8.576790251944457
+25,La vita è bella,1997,Roberto Benigni, Roberto Benigni, Nicoletta Braschi,519214,8.568918511268123
+26,The Usual Suspects,1995,Bryan Singer, Kevin Spacey, Gabriel Byrne,865507,8.548086782604647
+27,Sen to Chihiro no kamikakushi,2001,Hayao Miyazaki, Daveigh Chase, Suzanne Pleshette,522442,8.54081016694962
+28,Saving Private Ryan,1998,Steven Spielberg, Tom Hanks, Matt Damon,1049650,8.540310109286219
+29,Léon,1994,Luc Besson, Jean Reno, Gary Oldman,872120,8.535791392079565
+30,The Green Mile,1999,Frank Darabont, Tom Hanks, Michael Clarke Duncan,951485,8.509848858920982
+31,Interstellar,2014,Christopher Nolan, Matthew McConaughey, Anne Hathaway,1206638,8.509127440341503
+32,American History X,1998,Tony Kaye, Edward Norton, Edward Furlong,909903,8.502810691543766
+33,Psycho,1960,Alfred Hitchcock, Anthony Perkins, Janet Leigh,507121,8.502048725377644
+34,City Lights,1931,Charles Chaplin, Charles Chaplin, Virginia Cherrill,137236,8.500206659207203
+35,Once Upon a Time in the West,1968,Sergio Leone, Henry Fonda, Charles Bronson,258302,8.497733098065913
+36,Casablanca,1942,Michael Curtiz, Humphrey Bogart, Ingrid Bergman,454595,8.496905702848286
+37,Modern Times,1936,Charles Chaplin, Charles Chaplin, Paulette Goddard,178552,8.485345276855417
+38,The Intouchables,2011,Olivier Nakache, François Cluzet, Omar Sy,632563,8.482893819685133
+39,Avengers: Infinity War,2018,Anthony Russo, Robert Downey Jr., Chris Hemsworth,473584,8.482210006215665
+40,The Pianist,2002,Roman Polanski, Adrien Brody, Thomas Kretschmann,603791,8.481358521269444
+41,The Departed,2006,Martin Scorsese, Leonardo DiCaprio, Matt Damon,1024819,8.478047928856006
+42,Terminator 2: Judgment Day,1991,James Cameron, Arnold Schwarzenegger, Linda Hamilton,864955,8.476305194370443
+43,Back to the Future,1985,Robert Zemeckis, Michael J. Fox, Christopher Lloyd,881074,8.475229880106804
+44,Rear Window,1954,Alfred Hitchcock, James Stewart, Grace Kelly,378299,8.472442957639268
+45,Whiplash,2014,Damien Chazelle, Miles Teller, J.K. Simmons,567377,8.472086275768001
+46,Raiders of the Lost Ark,1981,Steven Spielberg, Harrison Ford, Karen Allen,772011,8.471987601862917
+47,Gladiator,2000,Ridley Scott, Russell Crowe, Joaquin Phoenix,1151408,8.46350257586437
+48,The Lion King,1994,Roger Allers, Matthew Broderick, Jeremy Irons,783608,8.461507159518778
+49,The Prestige,2006,Christopher Nolan, Christian Bale, Hugh Jackman,1012524,8.456862367475486
+50,Memento,2000,Christopher Nolan, Guy Pearce, Carrie-Anne Moss,988523,8.44532677426755
+51,Apocalypse Now,1979,Francis Ford Coppola, Martin Sheen, Marlon Brando,523537,8.444938888676576
+52,Alien,1979,Ridley Scott, Sigourney Weaver, Tom Skerritt,680015,8.43723000384349
+53,The Great Dictator,1940,Charles Chaplin, Charles Chaplin, Paulette Goddard,170280,8.424726100889501
+54,Nuovo Cinema Paradiso,1988,Giuseppe Tornatore, Philippe Noiret, Enzo Cannavale,189204,8.42286896416776
+55,Hotaru no haka,1988,Isao Takahata, Tsutomu Tatsumi, Ayano Shiraishi,181849,8.417975230222947
+56,Sunset Blvd.,1950,Billy Wilder, William Holden, Gloria Swanson,169896,8.416036450873042
+57,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Stanley Kubrick, Peter Sellers, George C. Scott,398705,8.410625122283767
+58,The Lives of Others,2006,Florian Henckel von Donnersmarck, Ulrich Mühe, Martina Gedeck,307555,8.409813635493244
+59,Paths of Glory,1957,Stanley Kubrick, Kirk Douglas, Ralph Meeker,147458,8.398904352583022
+60,The Shining,1980,Stanley Kubrick, Jack Nicholson, Shelley Duvall,735683,8.391057042022217
+61,Django Unchained,2012,Quentin Tarantino, Jamie Foxx, Christoph Waltz,1148925,8.389540857019735
+62,WALL·E,2008,Andrew Stanton, Ben Burtt, Elissa Knight,861079,8.37605001649997
+63,Mononoke-hime,1997,Hayao Miyazaki, Yôji Matsuda, Yuriko Ishida,277481,8.360160881274014
+64,Coco,2017,Lee Unkrich, Anthony Gonzalez, Gael García Bernal,213095,8.358854858156292
+65,Witness for the Prosecution,1957,Billy Wilder, Tyrone Power, Marlene Dietrich,85061,8.355498016247125
+66,American Beauty,1999,Sam Mendes, Kevin Spacey, Annette Bening,952869,8.354503210919873
+67,The Dark Knight Rises,2012,Christopher Nolan, Christian Bale, Tom Hardy,1327658,8.352794876132513
+68,Oldeuboi,2003,Chan-wook Park, Min-sik Choi, Ji-tae Yu,434344,8.350586305110467
+69,Aliens,1986,James Cameron, Sigourney Weaver, Michael Biehn,575606,8.349493866178928
+70,Once Upon a Time in America,1984,Sergio Leone, Robert De Niro, James Woods,263018,8.346775466384651
+71,Das Boot,1981,Wolfgang Petersen, Jürgen Prochnow, Herbert Grönemeyer,199098,8.333807592461982
+72,Citizen Kane,1941,Orson Welles, Orson Welles, Joseph Cotten,348667,8.328708380965457
+73,Braveheart,1995,Mel Gibson, Mel Gibson, Sophie Marceau,857901,8.317605468601313
+74,Vertigo,1958,Alfred Hitchcock, James Stewart, Kim Novak,303515,8.317558878147516
+75,North by Northwest,1959,Alfred Hitchcock, Cary Grant, Eva Marie Saint,259579,8.317262072158911
+76,Reservoir Dogs,1992,Quentin Tarantino, Harvey Keitel, Tim Roth,784930,8.311966257290667
+77,Kimi no na wa.,2016,Makoto Shinkai, Ryûnosuke Kamiki, Mone Kamishiraishi,106188,8.311561460410113
+78,Star Wars: Episode VI - Return of the Jedi,1983,Richard Marquand, Mark Hamill, Harrison Ford,822620,8.310121426159323
+79,M - Eine Stadt sucht einen Mörder,1931,Fritz Lang, Peter Lorre, Ellen Widmann,120745,8.3087146295084
+80,Dangal,2016,Nitesh Tiwari, Aamir Khan, Sakshi Tanwar,103614,8.29943387260863
+81,Requiem for a Dream,2000,Darren Aronofsky, Ellen Burstyn, Jared Leto,671113,8.297850854467567
+82,Amadeus,1984,Milos Forman, F. Murray Abraham, Tom Hulce,321398,8.295263662292554
+83,Taare Zameen Par,2007,Aamir Khan, Darsheel Safary, Aamir Khan,128773,8.290695913928761
+84,Lawrence of Arabia,1962,David Lean, Peter O'Toole, Alec Guinness,230566,8.287747191348052
+85,A Clockwork Orange,1971,Stanley Kubrick, Malcolm McDowell, Patrick Magee,657045,8.287221455905389
+86,Amélie,2001,Jean-Pierre Jeunet, Audrey Tautou, Mathieu Kassovitz,625513,8.286871509016382
+87,Eternal Sunshine of the Spotless Mind,2004,Michel Gondry, Jim Carrey, Kate Winslet,786410,8.286854201452456
+88,Double Indemnity,1944,Billy Wilder, Fred MacMurray, Barbara Stanwyck,120404,8.284306744171886
+89,2001: A Space Odyssey,1968,Stanley Kubrick, Keir Dullea, Gary Lockwood,513962,8.282114585863114
+90,3 Idiots,2009,Rajkumar Hirani, Aamir Khan, Madhavan,280482,8.28123333209303
+91,Taxi Driver,1976,Martin Scorsese, Robert De Niro, Jodie Foster,605410,8.280932355396292
+92,Toy Story,1995,John Lasseter, Tom Hanks, Tim Allen,749299,8.280117735266684
+93,Singin' in the Rain,1952,Stanley Donen, Gene Kelly, Donald O'Connor,185969,8.2785095418258
+94,Full Metal Jacket,1987,Stanley Kubrick, Matthew Modine, R. Lee Ermey,579173,8.27473438733471
+95,Inglourious Basterds,2009,Quentin Tarantino, Brad Pitt, Diane Kruger,1062028,8.273247988686226
+96,To Kill a Mockingbird,1962,Robert Mulligan, Gregory Peck, John Megna,259646,8.272936239271283
+97,Ladri di biciclette,1948,Vittorio De Sica, Lamberto Maggiorani, Enzo Staiola,118829,8.271363939000427
+98,The Kid,1921,Charles Chaplin, Charles Chaplin, Edna Purviance,89752,8.269258895178469
+99,The Sting,1973,George Roy Hill, Paul Newman, Robert Redford,209340,8.268866567230226
+100,Toy Story 3,2010,Lee Unkrich, Tom Hanks, Tim Allen,648005,8.263866484502694
+101,Good Will Hunting,1997,Gus Van Sant, Robin Williams, Matt Damon,728326,8.260368464767435
+102,Jagten,2012,Thomas Vinterberg, Mads Mikkelsen, Thomas Bo Larsen,225454,8.257778970529872
+103,Snatch,2000,Guy Ritchie, Jason Statham, Brad Pitt,691404,8.257047248417914
+104,Monty Python and the Holy Grail,1975,Terry Gilliam, Graham Chapman, John Cleese,441441,8.249121819356144
+105,Scarface,1983,Brian De Palma, Al Pacino, Michelle Pfeiffer,632928,8.247415612638925
+106,Per qualche dollaro in più,1965,Sergio Leone, Clint Eastwood, Lee Van Cleef,193606,8.247181299206089
+107,L.A. Confidential,1997,Curtis Hanson, Kevin Spacey, Russell Crowe,475387,8.245162411485337
+108,The Apartment,1960,Billy Wilder, Jack Lemmon, Shirley MacLaine,135247,8.244679564667688
+109,Metropolis,1927,Fritz Lang, Brigitte Helm, Alfred Abel,135864,8.243598803112462
+110,Jodaeiye Nader az Simin,2011,Asghar Farhadi, Payman Maadi, Leila Hatami,185420,8.236438023852966
+111,Indiana Jones and the Last Crusade,1989,Steven Spielberg, Harrison Ford, Sean Connery,604701,8.233425502473557
+112,Rashômon,1950,Akira Kurosawa, Toshirô Mifune, Machiko Kyô,126474,8.233176414031123
+113,Up,2009,Pete Docter, Edward Asner, Jordan Nagai,800995,8.225716802299358
+114,All About Eve,1950,Joseph L. Mankiewicz, Bette Davis, Anne Baxter,102069,8.220739175132676
+115,Yôjinbô,1961,Akira Kurosawa, Toshirô Mifune, Eijirô Tôno,91697,8.22017463925859
+116,Batman Begins,2005,Christopher Nolan, Christian Bale, Michael Caine,1141800,8.218998004671976
+117,Some Like It Hot,1959,Billy Wilder, Marilyn Monroe, Tony Curtis,209472,8.217432948561935
+118,Unforgiven,1992,Clint Eastwood, Clint Eastwood, Gene Hackman,325763,8.211737071213872
+119,Der Untergang,2004,Oliver Hirschbiegel, Bruno Ganz, Alexandra Maria Lara,291981,8.210152932249132
+120,The Treasure of the Sierra Madre,1948,John Huston, Humphrey Bogart, Walter Huston,96946,8.209720419467015
+121,Die Hard,1988,John McTiernan, Bruce Willis, Alan Rickman,688449,8.206081258433608
+122,Heat,1995,Michael Mann, Al Pacino, Robert De Niro,502389,8.20542383186233
+123,Raging Bull,1980,Martin Scorsese, Robert De Niro, Cathy Moriarty,275476,8.197126841112683
+124,Ikiru,1952,Akira Kurosawa, Takashi Shimura, Nobuo Kaneko,55132,8.19667210401275
+125,The Great Escape,1963,John Sturges, Steve McQueen, James Garner,196503,8.193132559761715
+126,Babam ve Oglum,2005,Çagan Irmak, Çetin Tekindor, Fikret Kuskan,60539,8.192765733801762
+127,Incendies,2010,Denis Villeneuve, Lubna Azabal, Mélissa Désormeaux-Poulin,114048,8.191488167049064
+128,Bacheha-Ye aseman,1997,Majid Majidi, Mohammad Amir Naji, Amir Farrokh Hashemian,46693,8.18739681813293
+129,The Third Man,1949,Carol Reed, Orson Welles, Joseph Cotten,136877,8.18572658596185
+130,Pan's Labyrinth,2006,Guillermo del Toro, Ivana Baquero, Ariadna Gil,548674,8.185653361232486
+131,Chinatown,1974,Roman Polanski, Jack Nicholson, Faye Dunaway,254347,8.184107505574486
+132,Tonari no Totoro,1988,Hayao Miyazaki, Hitoshi Takagi, Noriko Hidaka,223045,8.176348558511558
+133,Ran,1985,Akira Kurosawa, Tatsuya Nakadai, Akira Terao,94792,8.172057627989078
+134,Judgment at Nuremberg,1961,Stanley Kramer, Spencer Tracy, Burt Lancaster,58075,8.170409844330454
+135,Hauru no ugoku shiro,2004,Hayao Miyazaki, Chieko Baishô, Takuya Kimura,266475,8.170379656640995
+136,The Gold Rush,1925,Charles Chaplin, Charles Chaplin, Mack Swain,84627,8.168978217375447
+137,El secreto de sus ojos,2009,Juan José Campanella, Ricardo Darín, Soledad Villamil,164277,8.168940522697731
+138,"Three Billboards Outside Ebbing, Missouri",2017,Martin McDonagh, Frances McDormand, Woody Harrelson,273837,8.163701676939247
+139,The Bridge on the River Kwai,1957,David Lean, William Holden, Alec Guinness,178445,8.161747430337885
+140,On the Waterfront,1954,Elia Kazan, Marlon Brando, Karl Malden,122904,8.157796846610443
+141,A Beautiful Mind,2001,Ron Howard, Russell Crowe, Ed Harris,733673,8.156927207772835
+142,"Lock, Stock and Two Smoking Barrels",1998,Guy Ritchie, Jason Flemyng, Dexter Fletcher,475689,8.156524364150313
+143,Casino,1995,Martin Scorsese, Robert De Niro, Sharon Stone,395516,8.153775714917742
+144,Det sjunde inseglet,1957,Ingmar Bergman, Max von Sydow, Gunnar Björnstrand,135856,8.15370900449992
+145,Inside Out,2015,Pete Docter, Amy Poehler, Bill Hader,496712,8.152958456368278
+146,Room,2015,Lenny Abrahamson, Brie Larson, Jacob Tremblay,285814,8.147863044394178
+147,Mr. Smith Goes to Washington,1939,Frank Capra, James Stewart, Jean Arthur,93879,8.146593967560287
+148,The Elephant Man,1980,David Lynch, Anthony Hopkins, John Hurt,192138,8.145927675160848
+149,The Wolf of Wall Street,2013,Martin Scorsese, Leonardo DiCaprio, Jonah Hill,972144,8.142309199713083
+150,V for Vendetta,2005,James McTeigue, Hugo Weaving, Natalie Portman,917174,8.140302753213081
+151,Warrior,2011,Gavin O'Connor, Tom Hardy, Nick Nolte,388745,8.135287541675732
+152,Blade Runner,1982,Ridley Scott, Harrison Ford, Rutger Hauer,597532,8.135129364445511
+153,Smultronstället,1957,Ingmar Bergman, Victor Sjöström, Bibi Andersson,79234,8.133869155333597
+154,The General,1926,Clyde Bruckman, Buster Keaton, Marion Mack,67791,8.133716195682235
+155,Dial M for Murder,1954,Alfred Hitchcock, Ray Milland, Grace Kelly,133546,8.13164164421839
+156,Trainspotting,1996,Danny Boyle, Ewan McGregor, Ewen Bremner,566144,8.128526860163369
+157,No Country for Old Men,2007,Ethan Coen, Tommy Lee Jones, Javier Bardem,729086,8.1257008157084
+158,Gone with the Wind,1939,Victor Fleming, Clark Gable, Vivien Leigh,253533,8.124488577971277
+159,There Will Be Blood,2007,Paul Thomas Anderson, Daniel Day-Lewis, Paul Dano,443185,8.12426206397728
+160,The Sixth Sense,1999,M. Night Shyamalan, Bruce Willis, Haley Joel Osment,811512,8.124150741278424
+161,Fargo,1996,Joel Coen, William H. Macy, Frances McDormand,537073,8.121511688889317
+162,Gran Torino,2008,Clint Eastwood, Clint Eastwood, Bee Vang,645866,8.121138207330931
+163,The Thing,1982,John Carpenter, Kurt Russell, Wilford Brimley,313752,8.120437892021652
+164,The Deer Hunter,1978,Michael Cimino, Robert De Niro, Christopher Walken,273320,8.119343261474597
+165,Finding Nemo,2003,Andrew Stanton, Albert Brooks, Ellen DeGeneres,826367,8.11704069102659
+166,Sherlock Jr.,1924,Buster Keaton, Buster Keaton, Kathryn McGuire,29234,8.116043807868236
+167,Idi i smotri,1985,Elem Klimov, Aleksey Kravchenko, Olga Mironova,39534,8.115756308863173
+168,The Big Lebowski,1998,Joel Coen, Jeff Bridges, John Goodman,631498,8.111491573913039
+169,Kill Bill: Vol. 1,2003,Quentin Tarantino, Uma Thurman, David Carradine,862252,8.10381167636093
+170,Cool Hand Luke,1967,Stuart Rosenberg, Paul Newman, George Kennedy,141836,8.102599292903678
+171,Shutter Island,2010,Martin Scorsese, Leonardo DiCaprio, Emily Mortimer,951816,8.10213040259234
+172,Rebecca,1940,Alfred Hitchcock, Laurence Olivier, Joan Fontaine,106044,8.099818142770483
+173,Tôkyô monogatari,1953,Yasujirô Ozu, Chishû Ryû, Chieko Higashiyama,40211,8.098111580624556
+174,Sunrise: A Song of Two Humans,1927,F.W. Murnau, George O'Brien, Janet Gaynor,40636,8.097031950714197
+175,Hacksaw Ridge,2016,Mel Gibson, Andrew Garfield, Sam Worthington,332642,8.09653925606635
+176,Mary and Max,2009,Adam Elliot, Toni Collette, Philip Seymour Hoffman,144418,8.094967389784312
+177,How to Train Your Dragon,2010,Dean DeBlois, Jay Baruchel, Gerard Butler,577727,8.09247879880558
+178,Gone Girl,2014,David Fincher, Ben Affleck, Rosamund Pike,717891,8.091845200299451
+179,Relatos salvajes,2014,Damián Szifron, Darío Grandinetti, María Marull,139014,8.086972376922395
+180,Into the Wild,2007,Sean Penn, Emile Hirsch, Vince Vaughn,504231,8.083367123625017
+181,Jurassic Park,1993,Steven Spielberg, Sam Neill, Laura Dern,743470,8.081972314993894
+182,Eskiya,1996,Yavuz Turgul, Sener Sen, Ugur Yücel,51761,8.081732548895632
+183,Life of Brian,1979,Terry Jones, Graham Chapman, John Cleese,318381,8.081592875137456
+184,It Happened One Night,1934,Frank Capra, Clark Gable, Claudette Colbert,80914,8.079486648594138
+185,In the Name of the Father,1993,Jim Sheridan, Daniel Day-Lewis, Pete Postlethwaite,134985,8.07692574664218
+186,Platoon,1986,Oliver Stone, Charlie Sheen, Tom Berenger,338316,8.076820942917859
+187,Stand by Me,1986,Rob Reiner, Wil Wheaton, River Phoenix,320770,8.07547255976963
+188,The Grand Budapest Hotel,2014,Wes Anderson, Ralph Fiennes, F. Murray Abraham,599691,8.075433307584262
+189,Network,1976,Sidney Lumet, Faye Dunaway, William Holden,125254,8.074227304879711
+190,Andrei Rublev,1966,Andrei Tarkovsky, Anatoliy Solonitsyn, Ivan Lapikov,35786,8.072892675652056
+191,The Truman Show,1998,Peter Weir, Jim Carrey, Ed Harris,795746,8.072116541414012
+192,Stalker,1979,Andrei Tarkovsky, Alisa Freyndlikh, Aleksandr Kaydanovskiy,91301,8.071924343721662
+193,Hotel Rwanda,2004,Terry George, Don Cheadle, Sophie Okonedo,303509,8.07157958820895
+194,Rang De Basanti,2006,Rakeysh Omprakash Mehra, Aamir Khan, Soha Ali Khan,95212,8.070510121264562
+195,Persona,1966,Ingmar Bergman, Bibi Andersson, Liv Ullmann,81127,8.070147343144178
+196,Ben-Hur,1959,William Wyler, Charlton Heston, Jack Hawkins,193400,8.069504040008946
+197,La passion de Jeanne d'Arc,1928,Carl Theodor Dreyer, Maria Falconetti, Eugene Silvain,37865,8.068515634618187
+198,Salinui chueok,2003,Joon-ho Bong, Kang-ho Song, Sang-kyung Kim,92844,8.067826287690082
+199,Le salaire de la peur,1953,Henri-Georges Clouzot, Yves Montand, Charles Vanel,45894,8.067606307923457
+200,12 Years a Slave,2013,Steve McQueen, Chiwetel Ejiofor, Michael Kenneth Williams,547940,8.067489270262813
+201,Rush,2013,Ron Howard, Daniel Brühl, Chris Hemsworth,376339,8.066548586780767
+202,Million Dollar Baby,2004,Clint Eastwood, Hilary Swank, Clint Eastwood,563693,8.066121819883882
+203,Mad Max: Fury Road,2015,George Miller, Tom Hardy, Charlize Theron,732018,8.063642650162148
+204,Before Sunrise,1995,Richard Linklater, Ethan Hawke, Julie Delpy,226259,8.061319382535771
+205,Les quatre cents coups,1959,François Truffaut, Jean-Pierre Léaud, Albert Rémy,87635,8.060578650003597
+206,Spotlight,2015,Tom McCarthy, Mark Ruffalo, Michael Keaton,335186,8.058976618812359
+207,Logan,2017,James Mangold, Hugh Jackman, Patrick Stewart,505942,8.057828851951692
+208,Amores perros,2000,Alejandro G. Iñárritu, Emilio Echevarría, Gael García Bernal,200423,8.056540370757752
+209,Hachi: A Dog's Tale,2009,Lasse Hallström, Richard Gere, Joan Allen,209562,8.055866190529837
+210,Prisoners,2013,Denis Villeneuve, Hugh Jackman, Jake Gyllenhaal,496031,8.054549085921343
+211,The Princess Bride,1987,Rob Reiner, Cary Elwes, Mandy Patinkin,342960,8.050979491211926
+212,Kaze no tani no Naushika,1984,Hayao Miyazaki, Sumi Shimamoto, Mahito Tsujimura,121453,8.049978197104084
+213,Butch Cassidy and the Sundance Kid,1969,George Roy Hill, Paul Newman, Robert Redford,179730,8.0491959013206
+214,Catch Me If You Can,2002,Steven Spielberg, Leonardo DiCaprio, Tom Hanks,672650,8.046978016670671
+215,Harry Potter and the Deathly Hallows: Part 2,2011,David Yates, Daniel Radcliffe, Emma Watson,656353,8.04386467733528
+216,Rocky,1976,John G. Avildsen, Sylvester Stallone, Talia Shire,449763,8.038874660218228
+217,Mission: Impossible - Fallout,2018,Christopher McQuarrie, Tom Cruise, Henry Cavill,115827,8.037816765648293
+218,Barry Lyndon,1975,Stanley Kubrick, Ryan O'Neal, Marisa Berenson,125353,8.035584286366896
+219,The Maltese Falcon,1941,John Huston, Humphrey Bogart, Mary Astor,135284,8.034566294237312
+220,"Monsters, Inc.",2001,Pete Docter, Billy Crystal, John Goodman,701876,8.033134272405801
+221,The Grapes of Wrath,1940,John Ford, Henry Fonda, Jane Darwell,77787,8.032851670540039
+222,Blade Runner 2049,2017,Denis Villeneuve, Harrison Ford, Ryan Gosling,327385,8.029652270528393
+223,Les diaboliques,1955,Henri-Georges Clouzot, Simone Signoret, Véra Clouzot,53757,8.025889556251883
+224,Donnie Darko,2001,Richard Kelly, Jake Gyllenhaal, Jena Malone,673469,8.025859661422784
+225,La La Land,2016,Damien Chazelle, Ryan Gosling, Emma Stone,390663,8.0254816961982
+226,Gandhi,1982,Richard Attenborough, Ben Kingsley, John Gielgud,200510,8.023883691738225
+227,The Terminator,1984,James Cameron, Arnold Schwarzenegger, Linda Hamilton,697876,8.023277731715469
+228,Le notti di Cabiria,1957,Federico Fellini, Giulietta Masina, François Périer,36655,8.023057856844815
+229,Dead Poets Society,1989,Peter Weir, Robin Williams, Robert Sean Leonard,343210,8.021456570925531
+230,La haine,1995,Mathieu Kassovitz, Vincent Cassel, Hubert Koundé,126300,8.020043245183418
+231,Groundhog Day,1993,Harold Ramis, Bill Murray, Andie MacDowell,518601,8.01955351716431
+232,The Wizard of Oz,1939,Victor Fleming, Judy Garland, Frank Morgan,338233,8.01856483443664
+233,Paper Moon,1973,Peter Bogdanovich, Ryan O'Neal, Tatum O'Neal,35120,8.017745963368547
+234,A Wednesday,2008,Neeraj Pandey, Anupam Kher, Naseeruddin Shah,64693,8.017607233671685
+235,Jaws,1975,Steven Spielberg, Roy Scheider, Robert Shaw,488727,8.01642796550098
+236,The Help,2011,Tate Taylor, Emma Stone, Viola Davis,376422,8.014790222802482
+237,Faa yeung nin wa,2000,Kar-Wai Wong, Tony Chiu-Wai Leung, Maggie Cheung,98967,8.014574572784204
+238,Gangs of Wasseypur,2012,Anurag Kashyap, Manoj Bajpayee, Richa Chadha,64173,8.014052721369907
+239,Before Sunset,2004,Richard Linklater, Ethan Hawke, Julie Delpy,197675,8.012172625722826
+240,The Bourne Ultimatum,2007,Paul Greengrass, Matt Damon, Edgar Ramírez,566464,8.012134293824138
+241,Touch of Evil,1958,Orson Welles, Charlton Heston, Orson Welles,88568,8.011406136998177
+242,"Paris, Texas",1984,Wim Wenders, Harry Dean Stanton, Nastassja Kinski,68866,8.011070941641837
+243,Mandariinid,2013,Zaza Urushadze, Lembit Ulfsak, Elmo Nüganen,29517,8.0104642715494
+244,Guardians of the Galaxy,2014,James Gunn, Chris Pratt, Vin Diesel,870815,8.010367227857481
+245,8½,1963,Federico Fellini, Marcello Mastroianni, Anouk Aimée,95765,8.010208865560353
+246,Ah-ga-ssi,2016,Chan-wook Park, Min-hee Kim, Jung-woo Ha,65789,8.009956722997341
+247,The Best Years of Our Lives,1946,William Wyler, Myrna Loy, Dana Andrews,51002,8.009929789112356
+248,Dog Day Afternoon,1975,Sidney Lumet, Al Pacino, John Cazale,211678,8.009433877079328
+249,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Gore Verbinski, Johnny Depp, Geoffrey Rush,930700,8.00942680308368
+250,Beauty and the Beast,1991,Gary Trousdale, Paige O'Hara, Robby Benson,372798,8.009396313564677
